@@ -19,23 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-SCOPE NOTE
-
-This license covers only the code written in this repository
-(screening/, qlib_layer/, tools/, tests/).
-
-It does NOT cover any upstream project. This repository is an independent
-engineering log built with reference to the development experience of
-TauricResearch/TradingAgents, but contains none of its source code.
-
----
-
-DISCLAIMER
-
-This is a research tool, not investment advice.
-
-Both strategies documented in this repository have been validated as
-ineffective through out-of-sample testing. Do not trade based on them.
