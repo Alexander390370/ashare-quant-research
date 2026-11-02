@@ -1,6 +1,14 @@
 # A 股量化筛选：一次完整的工程实录
 
-> **结论先行：造出了三样能用的工具，证明了九个策略都不能用。**
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Data](https://img.shields.io/badge/Data-AKShare_+_Qlib-009688)](https://github.com/akfamily/akshare)
+[![Tests](https://img.shields.io/badge/Tests-1556_passed-brightgreen)](tests/)
+[![Strategies](https://img.shields.io/badge/Strategies_Validated-0_of_9-red)](#核心结论先看这个)
+[![Mutation](https://img.shields.io/badge/Mutation_Test-6_of_6_caught-blueviolet)](qlib_layer/VALIDATION.md)
+
+> **Status:** 已证伪的研究项目（negative result）。九个策略全部无效，代码作为「策略证伪工具」保留。
+> 读 [核心结论](#核心结论先看这个) 前请先知道：**这个仓库不产出 alpha。**
 >
 > 这不是失败——这是用零成本买到了别人要用真金白银才能买到的教训。
 
